@@ -46,17 +46,15 @@ I'm a **Growth Marketing** specialist obsessed with turning data into strategy a
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
-### 📈 GitHub Stats
+### 📈 What I'm Working On
 
-<div align="center">
-
-![Thảo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaolst&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7856FF&icon_color=7856FF&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaolst&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7856FF&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=thaolst&theme=tokyonight&hide_border=true&background=0D1117&ring=7856FF&fire=FF6B6B&currStreakLabel=7856FF)
-
-</div>
+```text
+🔍  Growth Experiments        ████████████████████   Always on
+📊  Data Analysis & Funnel    ██████████████████░░   90%
+🎯  Campaign Strategy         █████████████████░░░   85%
+✍️  Content & Copywriting     ████████████████░░░░   80%
+🤖  Marketing Automation      ██████████████░░░░░░   70%
+```
 
 
 ### 🌐 Let's Connect
