@@ -71,7 +71,7 @@ I'm a **Growth Marketing** specialist obsessed with turning data into strategy a
 
 <div align="center">
 
-*Thanks for stopping by! If you're into growth, marketing experiments, or just curious minds — let's talk* ✨
+*Thanks for stopping by! If you're into growth, marketing experiments, or just curious minds - let's talk* ✨
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=thaolst&style=flat-square&color=7856FF&label=PROFILE+VIEWS)
 
