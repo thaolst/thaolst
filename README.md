@@ -1,14 +1,5 @@
-<div align="center">
-
-AI x Growth Marketing - Vietnam #1
-
-</div>
-
----
-
-Le Song Tien Thao (Tara)  
-Growth Marketing Manager at MoMo (40M+ users, VN's #1 super app)  
-Loyalty, Retention, Promotion Design, AI-automated Growth
+Le Song Tien Thao (Tara)
+Growth Marketer
 
 ---
 
@@ -47,26 +38,10 @@ travel-ai-tools (1 star) - AI tools for travel growth marketers
 
 ---
 
-**Stack**
-
-Growth: Loyalty, Retention, Campaign, Segmentation, Analytics
-AI: Prompt Engineering, Claude, OpenAI, n8n
-Content: LinkedIn, Newsletter, Notion, Figma
-
----
-
-**GitHub Stats**
-
-![Stats](https://github-readme-stats.vercel.app/api?username=thaolst&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=4ade80&title_color=4ade80&text_color=c9d1d9&hide=prs,contribs)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaolst&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=4ade80&text_color=c9d1d9)
-
----
-
 **Connect**
 
-[LinkedIn](https://www.linkedin.com/in/thaolst/) | [Facebook](https://www.facebook.com/ThaoLST/) | [X](https://x.com/lesongtienthao) | [Substack](https://thaolst.substack.com/) | [Email](mailto:tienthaotara@gmail.com)
-
----
-
-[![Views](https://komarev.com/ghpvc/?username=thaolst&style=flat-square&color=4ade80&label=Views)](https://github.com/thaolst)
+LinkedIn: https://www.linkedin.com/in/thaolst/
+Facebook: https://www.facebook.com/ThaoLST/
+X: https://x.com/lesongtienthao
+Substack: https://thaolst.substack.com/
+Email: tienthaotara@gmail.com
