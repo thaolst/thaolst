@@ -1,14 +1,12 @@
 **Le Song Tien Thao** (Tara)
 
-Growth Marketer at MoMo (40M+ users). I build prompts, bots, and workflows for real growth marketing work.
+Growth Marketer. I build prompts, bots, and workflows for real growth marketing work.
 
 ---
 
 **What I do**
 
-Lead growth marketing for MoMo's Loyalty & Promotion (VN's #1 super app). My focus is retention, voucher design, and campaign strategy — where resource constraints (budget, channel, segment) actually define what's possible.
-
-Before MoMo: growth for travel products (Booking.com, Traveloka-adjacent work). Across these, the same pattern holds: know your level (S/M/L), design within it, automate what repeats.
+Retention, loyalty, campaign strategy, and AI automation. I design within real constraints - budget, channel, segment - not ideal conditions. Build tools that actually ship.
 
 ---
 
