@@ -1,63 +1,91 @@
 <div align="center">
+  <img src="https://img.shields.io/badge/AI%20×%20Growth%20Marketing-Vietnam%20%231-4ade80?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" alt="AI x Growth Marketing" />
+</div>
 
-```
-╔══════════════════════════════════════════╗
-║   Hi there, I'm Thảo 👋                 ║
-║   Growth Marketer · Data-Driven · Bold  ║
-╚══════════════════════════════════════════╝
+<br />
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║      Lê Song Tiên Thảo — Tara                    ║
+║   AI × Growth Marketing · Vietnam's #1 Voice     ║
+║     "Growth is a system. AI is the lever."       ║
+╚══════════════════════════════════════════════════╝
 ```
 
 </div>
 
+---
 
-### 🚀 About Me
+### 🧠 Who I Am
 
-> *"Growth is not a hack. It's a system."*
+Growth Marketing Manager at **MoMo** (VN's #1 super app, 40M+ users).  
+Building the bridge between **AI capabilities** and **real growth marketing** — not theory, not hype, but prompts and workflows battle-tested on live campaigns.
 
-I'm a **Growth Marketing** specialist obsessed with turning data into strategy and experiments into results. I believe in the power of iteration — test fast, learn faster, scale what works.
+I believe most growth advice is generic because it skips the **resource constraint** question. Every campaign is limited by budget, channel, and segment — the skill is knowing what to do within those limits. AI helps you think faster, but you still need the framework.
 
-- 🎯 Focused on **acquisition, retention & revenue growth**
-- 📊 Love digging into metrics, funnels, and user behavior
-- ⚡ Building growth loops that compound over time
-- 🌏 Based in **Vietnam** · Open to global collabs
+That's what I build and share.
 
+---
 
-### 🛠️ My Growth Stack
+### 🔥 Featured Project
 
-**Analytics & Data**
+<p align="center">
+  <a href="https://github.com/thaolst/ai-growth-prompts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thaolst&repo=ai-growth-prompts&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=4ade80&title_color=4ade80&text_color=c9d1d9" />
+  </a>
+</p>
 
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
-![Amplitude](https://img.shields.io/badge/Amplitude-1A1A2E?style=for-the-badge&logo=amplitude&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+**`ai-growth-prompts`** — A library of real prompts used in live growth campaigns. Not templates. Each prompt comes from actual campaign execution at MoMo: voucher design by segment, game mechanics for retention, n8n automation for growth workflows.
 
-**Marketing & Automation**
+> ⭐ 6 stars · 🚧 Active development · 🇻🇳 VI/EN bilingual
 
-![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
+---
 
-**Tools & Workflow**
+### 📦 What I'm Building
 
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+| Repo | What it does | Status |
+|---|---|---|
+| [ai-growth-prompts](https://github.com/thaolst/ai-growth-prompts) | Real growth marketing prompts — battle-tested, not generic | 🟢 Live · 6 folders |
+| [thaolst/tara-bot](https://github.com/thaolst/tara-bot) | AI Telegram assistant (search, growth tools) | 🟡 MVP live |
+| thaolst/thaolst | This profile — AI × Growth Marketing hub | 🟢 Live |
 
+---
 
-### 📈 What I'm Working On
+### 🛠️ Stack
 
-```text
-🔍  Growth Experiments        ████████████████████   Always on
-📊  Data Analysis & Funnel    ██████████████████░░   90%
-🎯  Campaign Strategy         █████████████████░░░   85%
-✍️  Content & Copywriting     ████████████████░░░░   80%
-🤖  Marketing Automation      ██████████████░░░░░░   70%
-```
+**Growth Marketing**
+![Loyalty & Retention](https://img.shields.io/badge/Loyalty%20%26%20Retention-4ade80?style=flat-square&labelColor=1a1a2e)
+![Promotion Design](https://img.shields.io/badge/Promotion%20Design-4ade80?style=flat-square&labelColor=1a1a2e)
+![Segmentation](https://img.shields.io/badge/Segmentation-4ade80?style=flat-square&labelColor=1a1a2e)
+![Campaign Analytics](https://img.shields.io/badge/Campaign%20Analytics-4ade80?style=flat-square&labelColor=1a1a2e)
 
+**AI & Automation**
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-60a5fa?style=flat-square&labelColor=1a1a2e)
+![n8n](https://img.shields.io/badge/n8n-60a5fa?style=flat-square&labelColor=1a1a2e)
+![Claude](https://img.shields.io/badge/Claude-60a5fa?style=flat-square&labelColor=1a1a2e)
+![OpenAI](https://img.shields.io/badge/OpenAI-60a5fa?style=flat-square&labelColor=1a1a2e)
 
-### 🌐 Let's Connect
+**Content & Brand**
+![LinkedIn](https://img.shields.io/badge/LinkedIn%20Content-0A66C2?style=flat-square&labelColor=1a1a2e)
+![Newsletter](https://img.shields.io/badge/Newsletter-FF6719?style=flat-square&labelColor=1a1a2e)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&labelColor=1a1a2e)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&labelColor=1a1a2e)
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thaolst&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=4ade80&title_color=4ade80&text_color=c9d1d9&hide_rank=true)
+
+</div>
+
+---
+
+### 🌐 Find Me
 
 <div align="center">
 
@@ -65,14 +93,16 @@ I'm a **Growth Marketing** specialist obsessed with turning data into strategy a
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ThaoLST/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lesongtienthao)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://thaolst.substack.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tienthaotara@gmail.com)
 
 </div>
 
+---
 
 <div align="center">
 
-*Thanks for stopping by! If you're into growth, marketing experiments, or just curious minds - let's talk* ✨
+*Building Vietnam's #1 AI × Growth Marketing voice — one real campaign at a time.*
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=thaolst&style=flat-square&color=7856FF&label=PROFILE+VIEWS)
+[![Profile Views](https://komarev.com/ghpvc/?username=thaolst&style=flat-square&color=4ade80&label=Views)](https://github.com/thaolst)
 
 </div>
