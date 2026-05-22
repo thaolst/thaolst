@@ -1,47 +1,31 @@
-Le Song Tien Thao (Tara)
+**Le Song Tien Thao** (Tara)
+
 Growth Marketer
 
----
-
-**Featured repos**
-
-**tara-bot** (54 stars, 65 forks)
-AI Telegram agent: flight search, price comparison. Type 1 sentence, get results.
-
-"ve SG Da Nang cuoi tuan" > 32 flights, cheapest 3.4M, Google Flights links
-"iPhone 16" > top 6 deals with ratings and shops
-
-Tech: Claude Sonnet, SerpAPI, python-telegram-bot, Fly.io
-
-https://github.com/thaolst/tara-bot
+I build tools and prompts for real growth marketing work. Currently at MoMo (VN's #1 super app).
 
 ---
 
-**ai-growth-prompts** (6 stars)
-Prompts from real growth campaigns. Not generic templates. Voucher design, game mechanics, retention loops, n8n automation.
+**Repos**
 
-https://github.com/thaolst/ai-growth-prompts
+[tara-bot](https://github.com/thaolst/tara-bot) - AI Telegram agent: flight search, price comparison. 54 stars, 65 forks.
+
+[ai-growth-prompts](https://github.com/thaolst/ai-growth-prompts) - Prompts from real growth campaigns. Voucher design, game mechanics, retention loops, automation. 6 stars.
+
+[tara-agent](https://github.com/thaolst/tara-agent) - Personal AI agent. Social auto-pilot for LinkedIn, Facebook, Threads. 5 stars, 7 forks.
+
+[travel-growth-playbook](https://github.com/thaolst/travel-growth-playbook) - Growth frameworks for travel apps. 1 star.
+
+[travel-ai-tools](https://github.com/thaolst/travel-ai-tools) - AI tools for travel growth marketers. 1 star.
 
 ---
 
-**tara-agent** (5 stars, 7 forks)
-Personal AI agent on Telegram. Social auto-pilot for LinkedIn, Facebook, Threads.
+**GitHub Stats**
 
-https://github.com/thaolst/tara-agent
-
----
-
-**More repos**
-
-travel-growth-playbook (1 star) - Growth frameworks for travel apps
-travel-ai-tools (1 star) - AI tools for travel growth marketers
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaolst&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=4ade80&title_color=4ade80&text_color=c9d1d9&hide=prs,contribs)
 
 ---
 
 **Connect**
 
-LinkedIn: https://www.linkedin.com/in/thaolst/
-Facebook: https://www.facebook.com/ThaoLST/
-X: https://x.com/lesongtienthao
-Substack: https://thaolst.substack.com/
-Email: tienthaotara@gmail.com
+[LinkedIn](https://www.linkedin.com/in/thaolst/) | [Facebook](https://www.facebook.com/ThaoLST/) | [X](https://x.com/lesongtienthao) | [Substack](https://thaolst.substack.com/)
