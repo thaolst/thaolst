@@ -12,21 +12,25 @@ Retention, loyalty, campaign strategy, and AI automation. I design within real c
 
 **Open source**
 
-[**tara-bot**](https://github.com/thaolst/tara-bot) (54 stars, 65 forks) - AI Telegram agent for flight search and price comparison. Type "ve SG Da Nang cuoi tuan" and get 32 flights, cheapest price, Google Flights link. Built with Claude Sonnet + SerpAPI.
+[**tara-bot**](https://github.com/thaolst/tara-bot) ![](https://img.shields.io/github/stars/thaolst/tara-bot?style=flat-square&labelColor=0d1117&color=4ade80&label=stars) ![](https://img.shields.io/github/forks/thaolst/tara-bot?style=flat-square&labelColor=0d1117&color=4ade80&label=forks)
 
-[**ai-growth-prompts**](https://github.com/thaolst/ai-growth-prompts) (6 stars) - Prompts used in live growth campaigns. Not templates. Covers voucher design, segmentation, game mechanics, retention loops, n8n automation. Bilingual VI/EN.
+AI Telegram agent for flight search and price comparison. Type "ve SG Da Nang cuoi tuan" and get 32 flights, cheapest price, Google Flights link. Built with Claude Sonnet + SerpAPI.
 
-[**tara-agent**](https://github.com/thaolst/tara-agent) (5 stars, 7 forks) - Personal AI agent on Telegram. Social auto-pilot for LinkedIn, Facebook, Threads.
+[**ai-growth-prompts**](https://github.com/thaolst/ai-growth-prompts) ![](https://img.shields.io/github/stars/thaolst/ai-growth-prompts?style=flat-square&labelColor=0d1117&color=4ade80&label=stars)
 
-[**travel-growth-playbook**](https://github.com/thaolst/travel-growth-playbook) - Growth frameworks for travel apps.
+Prompts used in live growth campaigns. Not templates. Covers voucher design, segmentation, game mechanics, retention loops, n8n automation. Bilingual VI/EN.
 
-[**travel-ai-tools**](https://github.com/thaolst/travel-ai-tools) - AI tools for travel growth marketers.
+[**tara-agent**](https://github.com/thaolst/tara-agent) ![](https://img.shields.io/github/stars/thaolst/tara-agent?style=flat-square&labelColor=0d1117&color=4ade80&label=stars) ![](https://img.shields.io/github/forks/thaolst/tara-agent?style=flat-square&labelColor=0d1117&color=4ade80&label=forks)
 
----
+Personal AI agent on Telegram. Social auto-pilot for LinkedIn, Facebook, Threads.
 
-**GitHub stats**
+[**travel-growth-playbook**](https://github.com/thaolst/travel-growth-playbook) ![](https://img.shields.io/github/stars/thaolst/travel-growth-playbook?style=flat-square&labelColor=0d1117&color=4ade80&label=stars)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thaolst&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=4ade80&title_color=4ade80&text_color=c9d1d9&hide=prs,contribs)
+Growth frameworks for travel apps.
+
+[**travel-ai-tools**](https://github.com/thaolst/travel-ai-tools) ![](https://img.shields.io/github/stars/thaolst/travel-ai-tools?style=flat-square&labelColor=0d1117&color=4ade80&label=stars)
+
+AI tools for travel growth marketers.
 
 ---
 
