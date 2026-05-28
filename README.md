@@ -1,6 +1,5 @@
 ![](https://img.shields.io/badge/Growth%20Marketer-AI%20×%20Marketing-blue?style=flat-square)
 ![](https://img.shields.io/badge/fintech-SEA-00d4b4?style=flat-square)
-![](https://img.shields.io/badge/MoMo-2019→today-ff6b6b?style=flat-square)
 
 **Lê Song Tiên Thảo** (Tara)
 
