@@ -6,8 +6,13 @@
 I build AI agents, prompts, and workflows for real growth marketing work. Retention, loyalty, campaign strategy — designed within real constraints (budget, channel, segment), not ideal conditions.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaolst&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=4ade80&text_color=c9d1d9&title_color=4ade80" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaolst&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=4ade80" alt="Top Languages" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thaolst&theme=github_dark" alt="Profile Details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thaolst&theme=github_dark" alt="Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thaolst&theme=github_dark" alt="Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thaolst&theme=github_dark" alt="Top Langs" height="170" />
 </p>
 
 ---
