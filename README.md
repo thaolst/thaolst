@@ -6,13 +6,7 @@
 I build AI agents, prompts, and workflows for real growth marketing work. Retention, loyalty, campaign strategy — designed within real constraints (budget, channel, segment), not ideal conditions.
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thaolst&theme=github_dark" alt="Profile Details" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thaolst&theme=github_dark" alt="Stats" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thaolst&theme=github_dark" alt="Languages" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thaolst&theme=github_dark" alt="Top Langs" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thaolst&theme=github_dark" alt="Contributions" width="100%" />
 </p>
 
 ---
