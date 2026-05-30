@@ -1,48 +1,63 @@
-![](https://img.shields.io/badge/Growth%20Marketer-AI%20×%20Marketing-blue?style=flat-square)
-![](https://img.shields.io/badge/fintech-SEA-00d4b4?style=flat-square)
-
-**Lê Song Tiên Thảo** (Tara)
-
-I build AI agents, prompts, and workflows for real growth marketing work. Retention, loyalty, campaign strategy — designed within real constraints (budget, channel, segment), not ideal conditions.
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thaolst&theme=github_dark" alt="Contributions" width="100%" />
+  <img src="https://img.shields.io/badge/Growth%20Marketing-×%20AI-FF3366?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fintech-SEA-00D4B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-MIT-4ade80?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyPI-growth--mcp-60a5fa?style=flat-square" />
 </p>
 
----
+# Lê Song Tiên Thảo
 
-## Featured
+Growth Marketer. Mình build AI workflows cho công việc growth marketing thực tế — campaign brief, MEU planning, A/B test analysis, retention loop. Không phải lý thuyết. Từ campaign thật tại fintech top Đông Nam Á.
 
-### 🔥 [AI Growth Agents for Marketers](https://github.com/thaolst/ai-growth-agents-for-marketers)
-![](https://img.shields.io/github/stars/thaolst/ai-growth-agents-for-marketers?style=flat-square&labelColor=0d1117&color=facc15&label=★)
-![](https://img.shields.io/github/forks/thaolst/ai-growth-agents-for-marketers?style=flat-square&labelColor=0d1117&color=4ade80&label=)
-[![](https://img.shields.io/badge/website-8b5cf6?style=flat-square)](https://thaolst.github.io/ai-growth-agents-for-marketers)
+Mình chia sẻ lại toàn bộ những gì đang dùng, vì mình nghĩ nhiều marketer khác đang làm cùng một việc theo cách mất thời gian hơn cần thiết.
 
-10 AI agents + prompts for growth marketing. Campaign brief, A/B test analysis, MEU planning, and more. Built from real fintech campaigns. Bilingual VI/EN. Free, MIT license.
+**What I share:** AI prompts + Python agents từ thực chiến · Case studies ẩn danh có số liệu thật · MCP server cho growth marketing
 
 ---
 
-## More projects
+## Repos
 
-🤖 **tara-bot** — [AI Telegram agent](https://github.com/thaolst/tara-bot) ![](https://img.shields.io/github/stars/thaolst/tara-bot?style=flat-square&labelColor=0d1117&color=4ade80&label=★)
-Flight search + price comparison in Vietnamese. "ve SG Da Nang cuoi tuan" → 32 flights, cheapest price, Google Flights link. Claude Sonnet + SerpAPI.
+### [ai-growth-agents-for-marketers](https://github.com/thaolst/ai-growth-agents-for-marketers)
+![stars](https://img.shields.io/github/stars/thaolst/ai-growth-agents-for-marketers?style=flat-square&color=facc15&label=★)
+![license](https://img.shields.io/badge/license-MIT-4ade80?style=flat-square)
 
-📝 **ai-growth-prompts** — [Prompt library](https://github.com/thaolst/ai-growth-prompts) ![](https://img.shields.io/github/stars/thaolst/ai-growth-prompts?style=flat-square&labelColor=0d1117&color=4ade80&label=★)
-Prompts from live growth campaigns. Voucher design, segmentation, game mechanics, retention loops.
+Prompts và Python agents cho growth marketing — campaign brief, MEU planning, A/B test, multi-agent workflow. Có Agent Skills format, cài được qua `npx skills add thaolst/ai-growth-agents-for-marketers`. Bilingual VI/EN.
 
-🧠 **tara-agent** — [Personal AI agent](https://github.com/thaolst/tara-agent) ![](https://img.shields.io/github/stars/thaolst/tara-agent?style=flat-square&labelColor=0d1117&color=4ade80&label=★)
-Social auto-pilot for LinkedIn, Facebook, Threads on Telegram.
+### [growth-mcp](https://github.com/thaolst/growth-mcp)
+![stars](https://img.shields.io/github/stars/thaolst/growth-mcp?style=flat-square&color=facc15&label=★)
+![pypi](https://img.shields.io/pypi/v/growth-mcp?style=flat-square&color=60a5fa)
 
-🔌 **growth-mcp** — [MCP server](https://github.com/thaolst/growth-mcp) ![](https://img.shields.io/github/stars/thaolst/growth-mcp?style=flat-square&labelColor=0d1117&color=4ade80&label=★)
-MCP tools for growth marketing — campaign design, retention analysis.
+MCP server cho growth marketing. Claude gọi trực tiếp vào domain knowledge — campaign design, retention analysis, churn prediction, A/B testing. `pip install growth-mcp`.
 
-✈️ **travel-growth-playbook** — [Frameworks](https://github.com/thaolst/travel-growth-playbook) — Growth for travel apps.
-🔧 **travel-ai-tools** — [AI tools](https://github.com/thaolst/travel-ai-tools) — AI for travel growth.
+### [ai-growth-prompts](https://github.com/thaolst/ai-growth-prompts)
+![stars](https://img.shields.io/github/stars/thaolst/ai-growth-prompts?style=flat-square&color=facc15&label=★)
+
+Prompt library từ campaign thực tế. Voucher design, segmentation, game mechanics, retention loops. 40+ prompts, bilingual VI/EN.
+
+### [tara-bot](https://github.com/thaolst/tara-bot)
+![stars](https://img.shields.io/github/stars/thaolst/tara-bot?style=flat-square&color=facc15&label=★)
+
+AI agent trên Telegram — tìm vé máy bay, so sánh giá real-time. Claude Sonnet + SerpAPI.
 
 ---
 
-## Connect
+## Kết quả thực tế
 
-[LinkedIn](https://www.linkedin.com/in/thaolst/) · [X](https://x.com/lesongtienthao) · [Facebook](https://www.facebook.com/ThaoLST/) · [Substack](https://thaolst.substack.com/) · [Email](mailto:tienthaotara@gmail.com)
+| Workflow | Trước | Sau |
+|----------|-------|-----|
+| Campaign brief | 3 tiếng | 20 phút |
+| A/B test analysis | 3 tiếng | 15 phút |
+| MEU planning | 2-3 ngày | 30 phút |
+| Query campaign history | 30 phút | 30 giây |
 
-![](https://img.shields.io/github/last-commit/thaolst/thaolst?style=flat-square&label=updated&color=a78bfa)
+---
+
+## Liên hệ
+
+[LinkedIn](https://www.linkedin.com/in/thaolst/) · [Substack](https://thaolst.substack.com/) · [PyPI](https://pypi.org/user/thaolst/)
+
+Nếu bạn đang làm growth marketing và muốn trao đổi về AI workflow — mình ở đây.
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thaolst&theme=github_dark" width="100%" />
+</p>
