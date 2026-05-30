@@ -11,8 +11,6 @@ Growth Marketer building AI workflows for real campaign work — not demos, not 
 
 I share what I actually use: prompts that cut campaign brief time from 3 hours to 20 minutes, cohort forecasting that flags where retention breaks before it costs budget, MEU planning that works backward from targets instead of forward from guesses.
 
----
-
 ## Projects
 
 ### [ai-growth-agents-for-marketers](https://github.com/thaolst/ai-growth-agents-for-marketers)
@@ -34,10 +32,9 @@ Prompt library from live campaigns. Voucher design, user segmentation, game mech
 
 ### [tara-bot](https://github.com/thaolst/tara-bot)
 ![stars](https://img.shields.io/github/stars/thaolst/tara-bot?style=flat-square&color=facc15&label=★)
+![forks](https://img.shields.io/github/forks/thaolst/tara-bot?style=flat-square&color=4ade80&label=⑂)
 
-Personal AI agent on Telegram. Flight search and price comparison in natural language. Claude Sonnet + SerpAPI.
-
----
+Personal AI agent on Telegram. Flight search and price comparison in natural language. Claude Sonnet + SerpAPI. 55 stars · 67 forks.
 
 ## What these tools actually do
 
@@ -47,8 +44,6 @@ Personal AI agent on Telegram. Flight search and price comparison in natural lan
 | A/B test analysis | 3 hours | 15 min |
 | MEU planning | 2-3 days | 30 min |
 | Campaign history query | 30 min | 30 sec |
-
----
 
 ## Contact
 
