@@ -14,25 +14,25 @@ I share what I actually use: prompts that cut campaign brief time from 3 hours t
 ## Projects
 
 ### [ai-growth-agents-for-marketers](https://github.com/thaolst/ai-growth-agents-for-marketers)
-![stars](https://img.shields.io/github/stars/thaolst/ai-growth-agents-for-marketers?style=flat-square&color=facc15&label=★)
+![stars](https://img.shields.io/github/stars/thaolst/ai-growth-agents-for-marketers?style=social)
 ![license](https://img.shields.io/badge/license-MIT-4ade80?style=flat-square)
 
 Prompts and Python agents for growth marketing work. Campaign brief, MEU planning, A/B test analysis, multi-agent workflows. Installable as Agent Skills via `npx skills add thaolst/ai-growth-agents-for-marketers`.
 
 ### [growth-mcp](https://github.com/thaolst/growth-mcp)
-![stars](https://img.shields.io/github/stars/thaolst/growth-mcp?style=flat-square&color=facc15&label=★)
+![stars](https://img.shields.io/github/stars/thaolst/growth-mcp?style=social)
 ![pypi](https://img.shields.io/pypi/v/growth-mcp?style=flat-square&color=60a5fa)
 
 MCP server encoding growth marketing domain knowledge as callable tools. Campaign design, retention analysis, churn prediction, channel mix, cohort forecasting. `pip install growth-mcp`. 9 tools, 71 tests.
 
 ### [ai-growth-prompts](https://github.com/thaolst/ai-growth-prompts)
-![stars](https://img.shields.io/github/stars/thaolst/ai-growth-prompts?style=flat-square&color=facc15&label=★)
+![stars](https://img.shields.io/github/stars/thaolst/ai-growth-prompts?style=social)
 
 Prompt library from live campaigns. Voucher design, user segmentation, game mechanics, retention loops. 40+ prompts tested in production.
 
 ### [tara-bot](https://github.com/thaolst/tara-bot)
-![stars](https://img.shields.io/github/stars/thaolst/tara-bot?style=flat-square&color=facc15&label=★)
-![forks](https://img.shields.io/github/forks/thaolst/tara-bot?style=flat-square&color=4ade80&label=⑂)
+![stars](https://img.shields.io/github/stars/thaolst/tara-bot?style=social)
+![forks](https://img.shields.io/github/forks/thaolst/tara-bot?style=social)
 
 Personal AI agent on Telegram. Flight search and price comparison in natural language. Claude Sonnet + SerpAPI. 55 stars · 67 forks.
 
