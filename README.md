@@ -13,6 +13,11 @@ I share what I actually use: prompts that cut campaign brief time from 3 hours t
 
 ## Projects
 
+### [ai-growth-prompts](https://github.com/thaolst/ai-growth-prompts)
+![stars](https://img.shields.io/github/stars/thaolst/ai-growth-prompts?style=social)
+
+Prompt library from live campaigns. Voucher design, user segmentation, game mechanics, retention loops. 40+ prompts tested in production.
+
 ### [ai-growth-agents-for-marketers](https://github.com/thaolst/ai-growth-agents-for-marketers)
 ![stars](https://img.shields.io/github/stars/thaolst/ai-growth-agents-for-marketers?style=social)
 ![license](https://img.shields.io/badge/license-MIT-4ade80?style=flat-square)
@@ -25,12 +30,7 @@ Prompts and Python agents for growth marketing work. Campaign brief, MEU plannin
 
 MCP server encoding growth marketing domain knowledge as callable tools. Campaign design, retention analysis, churn prediction, channel mix, cohort forecasting. `pip install growth-mcp`. 9 tools, 71 tests.
 
-### [ai-growth-prompts](https://github.com/thaolst/ai-growth-prompts)
-![stars](https://img.shields.io/github/stars/thaolst/ai-growth-prompts?style=social)
-
-Prompt library from live campaigns. Voucher design, user segmentation, game mechanics, retention loops. 40+ prompts tested in production.
-
-### [tara-bot](https://github.com/thaolst/tara-bot)
+### [tara-bot](https://github.com/thaolst/tara-bot) _(side project)_
 ![stars](https://img.shields.io/github/stars/thaolst/tara-bot?style=social)
 ![forks](https://img.shields.io/github/forks/thaolst/tara-bot?style=social)
 
