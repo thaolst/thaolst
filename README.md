@@ -28,7 +28,7 @@ Prompts and Python agents for growth marketing work. Campaign brief, MEU plannin
 ![stars](https://img.shields.io/github/stars/thaolst/growth-mcp?style=social)
 ![pypi](https://img.shields.io/pypi/v/growth-mcp?style=flat-square&color=60a5fa)
 
-MCP server encoding growth marketing domain knowledge as callable tools. Campaign design, retention analysis, churn prediction, channel mix, cohort forecasting. `pip install growth-mcp`. 9 tools, 71 tests.
+MCP server encoding growth marketing domain knowledge as callable tools, now with a CSV data layer: run A/B test, retention cohort, and segment analysis directly on your exported campaign data. `pip install growth-mcp`. 16 tools, 88 tests.
 
 ### [tara-bot](https://github.com/thaolst/tara-bot) _(side project)_
 ![stars](https://img.shields.io/github/stars/thaolst/tara-bot?style=social)
