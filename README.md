@@ -34,7 +34,7 @@ MCP server for growth marketing and loyalty program economics. 3 data sources (C
 ![stars](https://img.shields.io/github/stars/thaolst/tara-bot?style=social)
 ![forks](https://img.shields.io/github/forks/thaolst/tara-bot?style=social)
 
-Personal AI agent on Telegram. Flight search and price comparison in natural language. Claude Sonnet + SerpAPI. 55 stars · 67 forks.
+Personal AI agent on Telegram. Flight search and price comparison in natural language. Claude Sonnet + Google Flights links. 57 stars · 67 forks.
 
 ## What these tools actually do
 
