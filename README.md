@@ -28,7 +28,7 @@ Prompts and Python agents for growth marketing work. Campaign brief, MEU plannin
 ![stars](https://img.shields.io/github/stars/thaolst/growth-mcp?style=social)
 ![pypi](https://img.shields.io/pypi/v/growth-mcp?style=flat-square&color=60a5fa)
 
-MCP server for growth marketing and loyalty program economics. 3 data sources (CSV, BigQuery, Mixpanel), a loyalty vertical layer (points expiry, redemption elasticity, balance health), and a versioned knowledge layer. `pip install growth-mcp`. 25 tools, 3 prompts, 2 resources, 126 tests.
+MCP server for growth marketing and loyalty program economics. 3 data sources (CSV, BigQuery, Mixpanel), a loyalty vertical layer (points expiry, redemption elasticity, balance health), and a versioned knowledge layer. `pip install growth-mcp`. v1.0 stable: 25 tools, 3 prompts, 2 resources, 130 tests, runnable examples.
 
 ### [tara-bot](https://github.com/thaolst/tara-bot) _(side project)_
 ![stars](https://img.shields.io/github/stars/thaolst/tara-bot?style=social)
