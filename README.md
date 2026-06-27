@@ -126,4 +126,4 @@ Personal AI agent on Telegram. Flight search in natural language. Side project.
 
 [LinkedIn](https://www.linkedin.com/in/thaolst/) · [Substack](https://thaolst.substack.com/) · [PyPI](https://pypi.org/user/thaolst/)
 
-*Growth marketer at MoMo (2019–now). Building AI tools for marketers in public. Fork, star, follow — this is just the beginning.*
+*Growth marketer. Building AI tools for marketers in public. Fork, star, follow — this is just the beginning.*
