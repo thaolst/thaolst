@@ -128,8 +128,8 @@ Bilingual (VI/EN) atlas of world coffee — interactive globe, species and varie
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaolst&show_icons=true&theme=github_dark&hide=contribs&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaolst&layout=compact&theme=github_dark&hide=html" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thaolst&theme=github_dark" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thaolst&theme=github_dark" height="150" />
 </p>
 
 ---
