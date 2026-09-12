@@ -28,11 +28,11 @@ I'm building something different: **an AI assistant that understands growth mark
 
 | Module | Repo | What it does | Status |
 |--------|------|-------------|--------|
-| 🧠 **Data & Analysis** | [growth-mcp](https://github.com/thaolst/growth-mcp) | MCP server — cohort analysis, churn prediction, A/B testing, campaign math | `v1.0` · PyPI · ★9 |
-| 📝 **Prompt Engine** | [ai-growth-prompts](https://github.com/thaolst/ai-growth-prompts) | 40+ prompts for campaign brief, voucher design, segmentation, game mechanics | ★9 |
-| 🤖 **Agent Skills** | [ai-growth-agents-for-marketers](https://github.com/thaolst/ai-growth-agents-for-marketers) | Installable agent skills — `npx skills add thaolst/ai-growth-agents-for-marketers` | ★5 |
-| 🔄 **Social Auto-Pilot** | [tara-agent](https://github.com/thaolst/tara-agent) | Telegram agent for LinkedIn, Facebook, Threads automation | ★5 |
-| ✈️ **Travel Tools** | [tara-bot](https://github.com/thaolst/tara-bot) · [travel-growth-playbook](https://github.com/thaolst/travel-growth-playbook) | Side projects — flight search + travel marketing frameworks | ★57 + ★3 |
+| 🧠 **Data & Analysis** | [growth-mcp](https://github.com/thaolst/growth-mcp) | MCP server — cohort analysis, churn prediction, A/B testing, campaign math | `v1.0` · PyPI · ★10 · 🍴2 |
+| 📝 **Prompt Engine** | [ai-growth-prompts](https://github.com/thaolst/ai-growth-prompts) | 40+ prompts for campaign brief, voucher design, segmentation, game mechanics | ★11 · 🍴3 |
+| 🤖 **Agent Skills** | [ai-growth-agents-for-marketers](https://github.com/thaolst/ai-growth-agents-for-marketers) | Installable agent skills — `npx skills add thaolst/ai-growth-agents-for-marketers` | ★5 · 🍴4 |
+| 🔄 **Social Auto-Pilot** | [tara-agent](https://github.com/thaolst/tara-agent) | Telegram agent for LinkedIn, Facebook, Threads automation | ★5 · 🍴7 |
+| 🌱 **Side projects** | [tara-bot](https://github.com/thaolst/tara-bot) · [travel-growth-playbook](https://github.com/thaolst/travel-growth-playbook) · [coffee-globe](https://github.com/thaolst/coffee-globe) | Experiments beyond the growth stack — flight search, travel frameworks, and a world-coffee atlas | ★59 · ★3 · 🆕 |
 
 **Coming next:** Web UI for growth-mcp → marketers use it without CLI. Campaign Brief Generator. Retention Analyzer.
 
@@ -74,22 +74,27 @@ Q4 2026
 ## 📝 Latest Builds
 
 <!-- DAILY-LOG:START -->
-_New skills and tools added regularly. Follow the repos or check back._
+**Sep 2026**
+- ☕ **Coffee Globe** launched — bilingual VI/EN atlas of world coffee (globe, species, brewing, Vietnamese coffee culture), live on GitHub Pages
+- 🧠 **growth-mcp** — new **Campaign Memory**: search past campaigns and save learnings
+- 🤖 **ai-growth-agents-for-marketers** — live demo site published
+- ✈️ **tara-bot** — now ★59; natural-language flight search with affiliate links
 <!-- DAILY-LOG:END -->
 
 ---
 
 ## Projects in detail
 
-### [growth-mcp](https://github.com/thaolst/growth-mcp) · ★9
+### [growth-mcp](https://github.com/thaolst/growth-mcp) · ★10
 ![pypi](https://img.shields.io/pypi/v/growth-mcp?style=flat-square&color=60a5fa)
 
 MCP server for growth marketing and loyalty program economics. 25 tools, 3 prompts, 2 resources, 130 tests.  
+New: **Campaign Memory** — search past campaigns and save learnings.  
 `pip install growth-mcp` — works with Claude, Cursor, any MCP client.
 
 > *Data & analysis backbone of the AI assistant.*
 
-### [ai-growth-prompts](https://github.com/thaolst/ai-growth-prompts) · ★9
+### [ai-growth-prompts](https://github.com/thaolst/ai-growth-prompts) · ★11
 ![stars](https://img.shields.io/github/stars/thaolst/ai-growth-prompts?style=social)
 
 Prompt library from live fintech campaigns. Voucher design, user segmentation, game mechanics, retention loops. 8 categories, tested in production.
@@ -104,8 +109,15 @@ Prompts and Python agents for growth marketing work. Installable as Agent Skills
 
 > *The agent layer — multi-step workflows and automations.*
 
-### [tara-bot](https://github.com/thaolst/tara-bot) · ★57
+### [tara-bot](https://github.com/thaolst/tara-bot) · ★59
 Personal AI agent on Telegram. Flight search in natural language. Side project.
+
+---
+
+### [coffee-globe](https://github.com/thaolst/coffee-globe) · 🆕 _side project_
+Bilingual (VI/EN) atlas of world coffee — interactive globe, species and varieties, brewing methods, health and economy, plus a deep section on Vietnamese coffee culture. Plain HTML/JS, live on GitHub Pages.
+
+> *A side project — coffee, storytelling and craft.*
 
 ---
 
